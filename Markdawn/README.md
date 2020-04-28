@@ -1,7 +1,10 @@
-# Jhan Carlos Bastidas Martinez
+# **Jhan Carlos Bastidas Martinez**
 ###### Analista y Desarrollador de Sistemas de informacion
-![imagen](https://rec-end.elnuevodia.com/images/tn/166/0/833/578/900/789/2020/02/07/shutterstock1486197107.jpg)
+<img src="pp.jpg"  style="width:170px; margin-left:830px"/>
+
+___
 #### Informacion de Contacto
+
   **Email:** bastidasmartinezj@gmail.com <br>
   **Direccion:** Calle 47B Carrera 13A sur 10 Barranquilla, Colombia <br>
   **Telefono:** 3117261144
