@@ -1,17 +1,15 @@
 # **Jhan Carlos Bastidas Martinez**
 ###### Analista y Desarrollador de Sistemas de informacion
 <img src="pp.jpg"  style="width:170px; margin-left:830px"/>
-
 ___
 #### Informacion de Contacto
 
-  **Email:** bastidasmartinezj@gmail.com <br>
-  **Direccion:** Calle 47B Carrera 13A sur 10 Barranquilla, Colombia <br>
-  **Telefono:** 3117261144
-  **Fecha de Nacimiento:** 20-12-2001 <br>
+  **Email:** jhancbb117@gmail.com <br>
+  **Direccion:** Calle 117A Carrera 17A sur 17 Barranquilla, Colombia <br>
+  **Telefono:** 3115578742
+  **Fecha de Nacimiento:** 23-11-2001 <br>
   **Nacionalidad:** Colombia <br>
-  **Redes Sociales o Sitios Web:** https://www.facebook.com/profile.php?id=100008411916991&ref=bookmarks
-
+  **Redes Sociales o Sitios Web:** https://www.facebook.com/
 #### Objetivo
 Analista y desarrolador de sistemas de informacion con 1 año de experencia interesado en un puesto interno de desarrollo de software.  
 
