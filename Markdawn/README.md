@@ -1,6 +1,6 @@
 # **Jhan Carlos Bastidas Martinez**
 ###### Analista y Desarrollador de Sistemas de informacion
-<img src="pp.jpg"  style="width:170px; margin-left:830px"/>
+![Imagen](https://3.bp.blogspot.com/-c-IVwxaiwrc/VytsXBTkKTI/AAAAAAAAAQU/ytS-TvBRbnobuCoblvVp_oYvSYzr9A6SwCLcB/s1600/Halo_5_guardians_john_master_chief-1920x1440.jpg)
 ___
 #### Informacion de Contacto
 
