@@ -10,9 +10,9 @@
 
 ### FECHA NACIMIENTO
 
-    12/04/2998
+    12/04/1998
 
-### FORNACIÓN ACADÉMICA
+### FORMACIÓN ACADÉMICA
 
     Analisis y desarrollo de sistemas egresado del SENA.
 
@@ -48,8 +48,7 @@
 
      Desarrollador de sistémas
 
-##### Las funciones que puedo desarrollar como analista de sistemas puede desempeñar en
-    son:
+##### Las funciones que puedo desarrollar como analista de sistemas es desempeñar son:
 
 ```HTML
 
