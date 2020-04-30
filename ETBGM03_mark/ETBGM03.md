@@ -48,7 +48,7 @@
 
      Desarrollador de sistémas
 
-##### Las funciones que puedo desarrollar como analista de sistemas es desempeñar son:
+### Las funciones que puedo desarrollar como analista de sistemas es desempeñar son:
 
 ```HTML
 
