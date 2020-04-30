@@ -6,4 +6,6 @@ Repositorio OpenSource para Ejemplo aprendices SENA 1905372
 
 2. [Juan David Santiago](https://github.com/juan2209/ficha1905372/blob/master/Presentacion/Juan-Santiago.md)
 
+3. [Esteban Gómez Fernández](https://github.com/ETBGM03/ficha1905372/blob/master/ETBGM03_mark/ETBGM03.md)
+
 
