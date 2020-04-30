@@ -1,6 +1,6 @@
 # HOJA DE VIDA
 
-#### NOMBRES COMPLETOS
+### NOMBRES COMPLETOS
 
     Esteban De Jesús Gómez Fernaández
 
@@ -24,7 +24,7 @@
 
     5647385657489
 
-#### UBICACIÓN
+### UBICACIÓN
 
     Calle 32 Cra 90 # 23 B/quilla
 
