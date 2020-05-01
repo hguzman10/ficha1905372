@@ -1,7 +1,7 @@
 
 ----------------------------------------
 
-![](insertar imagen)  
+![](https://github.com/Dimiorz/ficha1905372/blob/master/livan-cv/img/livan%20torres.jpg)  
 # Livan Andres Torres Pulido
 
 ---------------------------------------
@@ -27,4 +27,4 @@
 
 ----------------------------------------
 ### Certificados:
-![](insertar imagen)
+![](https://github.com/Dimiorz/ficha1905372/blob/master/livan-cv/img/certificado.png)
