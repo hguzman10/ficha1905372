@@ -6,4 +6,4 @@ Repositorio OpenSource para Ejemplo aprendices SENA 1905372
 
 2. [Juan David Santiago](https://github.com/juan2209/ficha1905372/blob/master/Presentacion/Juan-Santiago.md)
 
-
+.[Livan Andres Torres Pulido] (https://github.com/Dimiorz/ficha1905372/blob/master/livan-cv/img/certificado.png)
