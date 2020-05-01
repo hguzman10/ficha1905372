@@ -8,7 +8,7 @@
 #### Ocupacion:
 
 
--Tecnico en sistemas competente en:
+-Tecnico en sistemas competente en:<br>
     .Mantenimiento preventico y correctivo de equipos de computo<br>
     .Realizar  cableado estructurado con base a las normas estandar internacionales<br>
     .Electricidad basica residencial<br>
