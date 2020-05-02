@@ -1,11 +1,11 @@
-##Melissa Perez Peña
+## Melissa Perez Peña
 
 
 ![Foto](https://avatars0.githubusercontent.com/u/57111817?s=400&u=721a9cb993d7e8f0d8955fde96ea6725a8b5dde9&v=4)
 
 ___
 
-###Informacion de contacto
+### Informacion de contacto
 
 
 **correo electrónico:** <perezmelissa1904@gmail.com>
@@ -23,7 +23,7 @@ ___
 ___
 
 
-###Educacion
+### Educacion
 
 
 Soledad-Atlantico
@@ -38,6 +38,8 @@ Servicio Nacional de Aprendizaje (SENA) CURSO ESPECIAL EN CURSO BÁSICO DE EMPRE
 
 ___
 
-###Idiomas
+### Idiomas
+
 Ingles: 
+
 Nivel basico
