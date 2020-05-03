@@ -1,8 +1,8 @@
-JOSE ARMANDO GONZALEZ VILLARREAL
+**JOSE ARMANDO GONZALEZ VILLARREAL**
 
 ___
 
-**Analista y Desarrollador de Sistemas de informacion**
+**Analista y Desarrollador de Sistemas de Informacion**
 
 ___
 
@@ -21,7 +21,7 @@ ___
 
 **Fecha de naciminto:** 14/05/2002Nacionalidad: Colombia
 
-**Redes Social o Sitis Web:** <https://www.facebook.com/locheMC>
+**Redes Social o Sitios Web:** <https://www.facebook.com/locheMC>
 
 ___
 
