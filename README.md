@@ -7,4 +7,10 @@ Repositorio OpenSource para Ejemplo aprendices SENA 1905372
 3. [Kelvin Martinez Ramos](https://github.com/KelvinMR1997/ficha1905372/blob/master/HV%20Marckdown/HV.md)
 4. [Melissa Perez Peña](https://github.com/YueStark/hoja-de-vida/blob/master/Melissa.md)
 
+<<<<<<< HEAD
 3. [Cristian Andres Julio](CristianJulio/cristianjulio.md)
+=======
+3. [Jhon Dairo Rivera](https://github.com/riverajhon02/ficha1905372/blob/master/Formato/hojaDeVida.md)
+
+
+>>>>>>> 8a69a80a14a3108cfd6e80fea62f8483df33e019
