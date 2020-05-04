@@ -29,7 +29,7 @@ Poseo capacidad en promover la interacción idónea consigo mismo, con los demá
 | Codigo de ficha        | 1505042                          |
 | Centro de formación    | Centro industrial y de avciacíon |
 | Ciudad de formación    | Barranquilla                     |
-| Estado                 | Certificado                      |
+| Estado                 | [ver]( https://github.com/riverajhon02/ficha1905372/blob/master/Jhon%20Rivera/Certificados/tecnico%20sistemas.pdf)|
 
 |Nombre del programa     |ADSI                              |
 | -----------------------| -------------------------------  |
