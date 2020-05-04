@@ -51,26 +51,32 @@ Poseo capacidad en promover la interacción idónea consigo mismo, con los demá
 | -----------------------| -------------------------------  |
 | Lugar                  |Centro industrial y de aviación   |
 | Año                    | 2018                             |
+| Certificado            | [ver](https://github.com/riverajhon02/ficha1905372/blob/master/Jhon%20Rivera/Certificados/seminario.pdf)                             |
 
 |Nombre                  | Arquitectura del computador      |
 | -----------------------| -------------------------------  |
 | Lugar                  |Centro industrial y de aviación   |
 | Año                    | 2019                             |
+| Certificado            | [ver](https://github.com/riverajhon02/ficha1905372/blob/master/Jhon%20Rivera/Certificados/arquitectura.pdf)                             |
 
 |Nombre                  | Programacion POO JAVA            |
 | -----------------------| -------------------------------  |
 | Lugar                  |Centro industrial y de aviación   |
 | Año                    | 2019                             |
+| Certificado            | [ver](https://github.com/riverajhon02/ficha1905372/blob/master/Jhon%20Rivera/Certificados/java.pdf)                             |
 
 |Nombre                  | Diseñar paginas web HTML JAVASCRIPT|
 | -----------------------| -------------------------------  |
 | Lugar                  |Centro industrial y de aviación   |
 | Año                    | 2019                             |
+| Certificado            | [ver](https://github.com/riverajhon02/ficha1905372/blob/master/Jhon%20Rivera/Certificados/html.pdf)                             |
+
 
 |Nombre                  | APLICACION DE LA METODOLOGIA SCRUM PARA PROYECTOS DE DESARROLLO DE SOFTWARE|
 | -----------------------| -------------------------------  |
 | Lugar                  |Centro industrial y de aviación   |
 | Año                    | 2019                             |
+| Certificado            | [ver](https://github.com/riverajhon02/ficha1905372/blob/master/Jhon%20Rivera/Certificados/scrum.pdf)                             |
 
 ---
 # 4. REFERENCIAS
