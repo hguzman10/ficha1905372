@@ -1,4 +1,4 @@
-![](https://avatars1.githubusercontent.com/u/55302815?s=460&u=12c4de9d8223832431e7b4b205cee6a3c975e555&v=4)
+![](../img/imgPerfil.jfif)
 ---
 # Cristian Andres Julio Cantillo
 * dirección: cra 12 # 60 - 40
