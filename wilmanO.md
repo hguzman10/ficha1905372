@@ -17,4 +17,8 @@ Institucion Educativa Tecnica Juan Jose Nieto <br>
 Tenico en el [SENA] de Mantenimiento de Edificaciones <br>
 Tectnologo en el [SENA] de Analisis y Desarrollo de Sistemas de Informacion <br>
 
+#### Mi perfil
+Me concidero una persona comprometida con mi trabajo y mis estudios, ademas de que me gusta seguir aprendiendo y a ayudar a los de demas para seguir fortaleciendome en mi profecion.
 [SENA]:http://www.sena.edu.co/es-co/Paginas/default.aspx
+
+# Fin.
