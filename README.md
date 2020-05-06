@@ -12,7 +12,7 @@ Repositorio OpenSource para Ejemplo aprendices SENA 1905372
 5. 
 6. 
 7. 
-8. 
+8. [Mario Gomez](Mario_Gomez.md)
 9. 
 10. 
 
