@@ -1,4 +1,4 @@
-![yo](img/cristianjulio.jfif)
+![yo](Documentacion/img/cristianjulio.jfif)
 ---
 # Cristian Andres Julio Cantillo
 * dirección: cra 12 # 60 - 40
