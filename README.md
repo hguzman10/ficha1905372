@@ -10,14 +10,6 @@
 5. [Cristian Andres Julio](cristianjulio.md)
 6. [Henry Guzman](henry.md)
 7. [Esteban Gómez Fernández](ETBGM03.md)
-
 9. [Wilman orellano](wilmanO.md)
-
 8. [Dilan Barrios](DilanBarrios.md)
 10. [Mateo de Jesus Balza Valega](mateo.md)
-
-
-
-
-
-
