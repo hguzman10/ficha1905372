@@ -18,6 +18,9 @@
 Institucion Educativa Tecnica Juan Jose Nieto <br>
 Tenico en el [SENA] de Mantenimiento de Edificaciones <br>
 Tectnologo en el [SENA] de Analisis y Desarrollo de Sistemas de Informacion
+#### Certificado
+---
+![certificado](https://github.com/wjorellano/certificado/blob/master/certificado%20de%20git%20y%20github.PNG?raw=true)
 
 #### Mi perfil
 ---
