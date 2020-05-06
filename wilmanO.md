@@ -21,7 +21,7 @@ Tectnologo en el [SENA] de Analisis y Desarrollo de Sistemas de Informacion
 
 #### Mi perfil
 ---
-Me concidero una persona comprometida con mi trabajo y mis estudios, ademas de que me gusta seguir aprendiendo y a ayudar a los de demas para seguir fortaleciendome en mi profecion.
+Me concidero una persona comprometida con mi trabajo y mis estudios, ademas de que me gusta seguir aprendiendo y a ayudar a los de demas para asi seguir fortaleciendome de forma personal y laboral para asi no dejar atras lo aprendido.
 
 [SENA]:http://www.sena.edu.co/es-co/Paginas/default.aspx
 
