@@ -75,7 +75,7 @@ ___
 
 ### Certificados:
 
-![4.](https://raw.githubusercontent.com/MERZIOX/ficha1905372/master/Evidencia%20Mario%20Gomez/IMG/certificado%20git%20y%20github.jpg "CURSO PROFESIONAL DE GIT Y GITHUB ")
+![4.](IMG/4. "CURSO PROFESIONAL DE GIT Y GITHUB ")
 
 ![5.](https://github.com/MERZIOX/ficha1905372/blob/master/Evidencia%20Mario%20Gomez/IMG/desarrollo%20de%20habilidades.jpg?raw=true "DESARROLLO DE HABILIDADES, PRINCIPIOS Y VALORES PARA LA VIDA Y EL TRABAJO.")
 
