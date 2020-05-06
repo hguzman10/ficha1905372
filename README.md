@@ -1,6 +1,7 @@
 
 # Repositorio OpenSource para Ejemplo aprendices SENA 1905372
 
+
 ### Hojas de vida de los aprendices en formato Markdown.
 
 ---
@@ -10,4 +11,5 @@
 4. [Melissa Perez Peña](https://github.com/YueStark/hoja-de-vida/blob/master/Melissa.md)
 5. [Cristian Andres Julio](CristianJulio/cristianjulio.md)
 6. [Henry Guzman](henry.md)
-7. [Wilman Orellano Heredia](wilmanO.md)
+7. [Esteban Gómez Fernández](ETBGM03.md)
+8. [Wilman Orellano Heredia](wilmanO.md)
