@@ -8,7 +8,7 @@
 <br>**Email:** matshooter22@gmail.com
 <br> **Telefono:** 3204562317 
 <br> **Nacionalidad:** Colombiano
-<br> **Direccion:** calle 17 #24-13 Soledad
+<br> **Dirección:** calle 17 #24-13 Soledad
 <br> **Fecha de Nacimiento:** 12/11/2001
 
   # Perfil: 
