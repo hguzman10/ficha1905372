@@ -13,7 +13,7 @@
 **Repocitorio de Trabajo**: https://github.com/Cryb-by/app-domicilios <br>
 **Repocitorio Open Source**: https://github.com/wjorellano/Blog-Sena-ADSI
 
-#### Esltudios
+#### Estudios
 ---
 Institucion Educativa Tecnica Juan Jose Nieto <br>
 Tenico en el [SENA] de Mantenimiento de Edificaciones <br>
