@@ -11,7 +11,9 @@ Repositorio OpenSource para Ejemplo aprendices SENA 1905372
 5. [Cristian Andres Julio](CristianJulio/cristianjulio.md)
 6. [Henry Guzman](henry.md)
 7. [Esteban Gómez Fernández](ETBGM03.md)
-8. [Mateo de Jesus Balza Valega](mateo.md)
+8. [Dilan Barrios](DilanBarrios.md)
+9. [Mateo de Jesus Balza Valega](mateo.md)
+
 
 
 
