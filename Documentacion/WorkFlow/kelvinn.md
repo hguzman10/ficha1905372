@@ -1,3 +1,6 @@
+![Imagen wokflow](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_866,h_463/https://www.r2docuo.com/es/wp-content/uploads/sites/2/2018/10/wor-s3.jpg)
+
+
 # Workflow  o flujo de trabajo
 
 Workflow o flujo de trabajo por su traduccion al español, es la automatizacion de los procesos que una empresa desarrolla a diario, de tal forma que las tareas a realizar y la información pasen de un trabajador a otro siguiendo una jerarquía determinada y siguiendo unas reglas o patrones preestablecidos con anterioridad.
