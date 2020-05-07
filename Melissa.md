@@ -1,45 +1,37 @@
-## Melissa Perez Peña
+# **Melissa Perez Peña**
 
 
-![Foto](https://avatars0.githubusercontent.com/u/57111817?s=400&u=721a9cb993d7e8f0d8955fde96ea6725a8b5dde9&v=4)
+![Foto](Documentacion/Imagenes/Melissa.jpeg)
 
 ___
 
-### Informacion de contacto
+### **Informacion de contacto**
 
-
-**correo electrónico:** <perezmelissa1904@gmail.com>
-
-**Dirección:** Diagonal 77B Transversal 1D Sur 03
-
-**Red social:** <https://www.facebook.com/profile.php?id=100004684995737>
-
-**Teléfono:** 3013985468
-
-**fecha de nacimiento:** 19/04/2002 
-
-**Nacinalidad:** colombiana
+**correo electrónico:** <perezmelissa1904@gmail.com> <br>
+**Dirección:** Diagonal 77B Transversal 1D Sur 03 <br>
+**Red social:** <https://www.facebook.com/profile.php?id=100004684995737> <br>
+**Teléfono:** 3013985468 <br>
+**fecha de nacimiento:** 19/04/2002 <br>
+**Nacinalidad:** colombiana 
 
 ___
 
 
-### Educacion
+### **Educacion**
 
 
-Soledad-Atlantico
+Soledad-Atlantico <br>
+Bachiller <br>
+Liceo Metropolitano Teresa De Jesus (LIMETEJE) <br>
 
-Bachiller
-
-Liceo Metropolitano Teresa De Jesus (LIMETEJE)
-
-**Otros** 
-
+**Otros** <br>
 Servicio Nacional de Aprendizaje (SENA) CURSO ESPECIAL EN CURSO BÁSICO DE EMPRENDIMIENTO
-
 ___
 
-### Idiomas
-
-Ingles: 
+### **Idiomas**
+Ingles: <br>
 
 Nivel basico
+___
+### **Certificado de Git y Github**
+![Git](Documentacion/Certificados/certificado-melissa.jpg)
