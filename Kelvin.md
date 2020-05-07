@@ -46,6 +46,11 @@ E-Mail: kmr19972015@gmail.com
 - Tecnico de sistemas
 - Curso profesional Git y Github
 - Metodologia agil: SCRUM
+
+
 ***
-
-
+# Certificados
+![imagne](Documentacion/Certificados/certificado-git.png)
+***
+![imagen](Documentacion/Certificados/CERTIFICADO.png)
+***
