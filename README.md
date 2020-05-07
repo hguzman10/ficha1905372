@@ -14,3 +14,4 @@
 9. [Dilan Barrios](DilanBarrios.md)
 10. [Mateo de Jesus Balza Valega](mateo.md)
 11. [Jhon Dairo Rivera](hojaDeVida.md) 
+12. [Mario Gomez Carrillo](MarioGomez.md)
