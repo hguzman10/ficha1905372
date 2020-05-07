@@ -13,4 +13,4 @@
 8. [Wilman orellano](wilmanO.md)
 9. [Dilan Barrios](DilanBarrios.md)
 10. [Mateo de Jesus Balza Valega](mateo.md)
-11. [Jhon Dairo Rivera](hojaDeVida.md) 
+11. [Jhon Dairo Rivera](Jhon_Rivera.md) 
