@@ -1,5 +1,6 @@
 #  **Dayana Paola Rodriguez De Arco**
-    ![foto](Documentacion/img/dearco.jpg)
+
+![Foto](Documentacion/img/dearco.jpg)
 
 ___
 #### **Informacion de contacto** 
