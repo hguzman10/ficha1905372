@@ -1,5 +1,5 @@
 # **¿ Qué es Workflow ?**
-Workflow es un administrador de flujos de trabajo, orientado a mejorar las comunicaciones de las personas y de los procedimientos al interior de una organizacion. Brinda la capacidad de definir los flujos de informacion y los formularios que la presentan e integrarlos en forma flexible en la definicion de estructura organizacional.
+Workflow es un administrador de flujos de trabajo, orientado a mejorar las comunicaciones de las personas y de los procedimientos al interior de una organizacion. Brinda la capacidad de definir los flujos de informacion y los formulariosr que la pesentan e integrarlos en forma flexible en la definicion de estructura organizacional.
 
 Es la automatizacion de procedimientos administrativos, comerciales o de gestion. Trabaja mediante formularios electronicos, a traves de, los cuales los usuarios llevan a cabo los diferentes pasos de un procedimiento determinado. De esta manera se esta facilitando la integracion de las personas, procedimientos y sistemas computacionales, ya que dichos formularios pueden accesar los datos de los sistemas de informacion de la entidad.
 ___
