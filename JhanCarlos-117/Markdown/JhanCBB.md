@@ -41,4 +41,4 @@ ___
 Nivel Basico
 
 ### Certificado de Git y GitHub
-![Certificado](https://raw.githubusercontent.com/JhanCarlos-117/Imagenes/master/Captura.PNG?token=AOOSYLLNCCWM3MCOUUET7IK6WNOEY)
+![Certificado](https://raw.githubusercontent.com/JhanCarlos-117/Imagenes/master/Captura.PNG)
