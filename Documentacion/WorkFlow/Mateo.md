@@ -1,0 +1,10 @@
+# ***Workflow***
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzkELPeOPDGhgbUijqVTKvYdGt2BapQVGKCq-T_h-onbtSpX_q&usqp=CAU)
+
+1. ***¿Qué es?:***    
+<br> *Un workflow es la automatización de los procesos de trabajo que desarrolla una empresa en su día a día, de tal forma que las tareas a realizar y la información pasen de un trabajador a otro siguiendo una jerarquía determinada y siguiendo unas reglas o patrones preestablecidos con anterioridad. Esta definición es bastante previsible y lógica, dado que ya simplemente con su traducción al castellano, que es literalmente: flujo de trabajo, nos podemos hacer una idea general de lo que engloba. Eso sí, como bien imaginarás, una descripción tan escueta no logra abarcar todos los matices que implica este término, por lo que se hace necesario entrar en más detalles. En teoría, esta gestión se puede organizar de forma manual, pero actualmente la mayor parte del workflow se sistematiza en el contexto de la tecnología de la información, más conocido como sistemas de TI.*
+![](https://cdn.semrush.com/blog/static/media/f4/51/f451ec75492ea3f68932e8c6ea97ae0e/resize/885x-/que-es-un-workflow.webp)
+
+2. ***¿Cómo mejora los procesos de negocio?:***
+<br> *Son un conjunto de herramientas que cuando se observan bajo un punto de vista macroambiental, forman un puente entre las eventuales unidades de producción y la oficina de una empresa determinada. Mientras tanto, si se analiza a nivel microambiental, esta tecnología conecta los sistemas de TI a la cultura de las propias empresas y por lo tanto termina conectando a los empleados con los procesos de negocio propiamente dichos. En general, la tecnología workflow no sólo asegura la comunicación e intercambio de información entre los diferentes departamentos implicados en el mismo proceso de negocio, sino que asegura que todas las tareas sean ejecutadas por el empleado a quien fueron destinadas.*
