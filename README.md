@@ -15,4 +15,6 @@
 10. [Mateo de Jesus Balza Valega](mateo.md)
 11. [Jhon Dairo Rivera](Jhon_Rivera.md)
 12. [Mario Gomez Carrillo](MarioGomez.md)
+13. [Jose Gonzalez](JoseG.md)
+
 
