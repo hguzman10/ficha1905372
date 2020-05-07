@@ -17,3 +17,4 @@
 12. [Mario Gomez Carrillo](MarioGomez.md)
 13. [Jose Gonzalez](JoseG.md)
 14. [Jaime Alvarez Ortega](Jaime.md)
+15. [Dayana Rodriguéz de Arco](dayana.md)
