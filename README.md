@@ -12,4 +12,4 @@
 7. [Esteban Gómez Fernández](ETBGM03.md)
 9. [Dilan Barrios](DilanBarrios.md)
 10. [Mateo de Jesus Balza Valega](mateo.md)
-11. [Jhon Dairo Rivera](hojaDeVida.md) 
+11. [Jhon Dairo Rivera](Jhon_Rivera.md) 

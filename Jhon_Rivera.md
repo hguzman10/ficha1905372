@@ -24,12 +24,12 @@ Poseo capacidad en promover la interacción idónea consigo mismo, con los demá
 
 ## FORMACIÓN SENA
 
-|Nombre del programa     |Tecnico en sitemas                |
+|Nombre del programa     |Técnico en sitemas                |
 | -----------------------| -------------------------------  |
 | Codigo de ficha        | 1505042                          |
 | Centro de formación    | Centro industrial y de avciacíon |
 | Ciudad de formación    | Barranquilla                     |
-| Estado                 | Certificado                      |
+| Estado                 | [Certificado](https://github.com/riverajhon02/ficha1905372/blob/master/Documentacion/certificados/tecnico%20sistemas.pdf)                      |
 
 |Nombre del programa     |ADSI                              |
 | -----------------------| -------------------------------  |
@@ -51,26 +51,43 @@ Poseo capacidad en promover la interacción idónea consigo mismo, con los demá
 | -----------------------| -------------------------------  |
 | Lugar                  |Centro industrial y de aviación   |
 | Año                    | 2018                             |
+| Estado                 | [Certificado](https://github.com/riverajhon02/ficha1905372/blob/master/Documentacion/certificados/seminario.pdf) |
 
 |Nombre                  | Arquitectura del computador      |
 | -----------------------| -------------------------------  |
 | Lugar                  |Centro industrial y de aviación   |
 | Año                    | 2019                             |
+| Estado                 | [Certificado](https://github.com/riverajhon02/ficha1905372/blob/master/Documentacion/certificados/arquitectura.pdf) |
 
 |Nombre                  | Programacion POO JAVA            |
 | -----------------------| -------------------------------  |
 | Lugar                  |Centro industrial y de aviación   |
 | Año                    | 2019                             |
+| Estado                 | [Certificado](https://github.com/riverajhon02/ficha1905372/blob/master/Documentacion/certificados/java.pdf) |
 
 |Nombre                  | Diseñar paginas web HTML JAVASCRIPT|
 | -----------------------| -------------------------------  |
 | Lugar                  |Centro industrial y de aviación   |
 | Año                    | 2019                             |
+| Estado                 | [Certificado](https://github.com/riverajhon02/ficha1905372/blob/master/Documentacion/certificados/html.pdf) |
 
 |Nombre                  | APLICACION DE LA METODOLOGIA SCRUM PARA PROYECTOS DE DESARROLLO DE SOFTWARE|
 | -----------------------| -------------------------------  |
 | Lugar                  |Centro industrial y de aviación   |
 | Año                    | 2019                             |
+| Estado                 | [Certificado](https://github.com/riverajhon02/ficha1905372/blob/master/Documentacion/certificados/scrum.pdf) |
+
+|Nombre                  |PROGRAMACIÓN BÁSICA               |
+| -----------------------| -------------------------------  |
+| Lugar                  |Platzi (Virtual)                  |
+| Año                    | 2020                             |
+| Estado                 | [Certificado](https://github.com/riverajhon02/ficha1905372/blob/master/Documentacion/certificados/programacion%20basica.pdf) |
+
+|Nombre                  |PROGRAMACIÓN PROFESIONAL GIT      |
+| -----------------------| -------------------------------  |
+| Lugar                  |Platzi (Virtual)                  |
+| Año                    | 2020                             |
+| Estado                 | [Certificado](https://github.com/riverajhon02/ficha1905372/blob/master/Documentacion/certificados/Git.pdf) |
 
 ---
 # 4. REFERENCIAS
