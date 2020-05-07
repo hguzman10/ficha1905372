@@ -1,6 +1,6 @@
 # **Jaime Alvarez Ortega**
 ##### Analista y desarrollador de sistemas de informacion
-![Img](https://i.pinimg.com/236x/67/54/78/675478c7dcc17f90ffa729387685615a--mobile-wallpaper-wallpaper-for.jpg)
+![Img](Documentacion/img/Jaime.jpg)
 
 #### Informacion de Contacto
 
