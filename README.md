@@ -22,5 +22,6 @@
 14. [Jaime Alvarez](Jaime.md)
 15. [Dayana Rodriguéz](Dayana.md)
 16. [Livan Torres ](livan.md)
-17. [Edy Monterrosa](Edy.md)
+17. [Edy Monterrosa](Edy.md.)
+18. [Maikol Menco](Maikol.md)
 
