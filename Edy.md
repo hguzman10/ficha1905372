@@ -31,6 +31,6 @@ Calle 48F #9 Sur 23 Bloq 30 Apto 4A
 
 ---
 ## **CERTIFICADOS**
-![](documentacion/Certificados/diploma-git-edy.png)
+![](Documentacion/Certificados/diploma-git-edy.png)
 
 
