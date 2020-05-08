@@ -1,6 +1,6 @@
 ----------------------------------------
 
-![](/Documentacion/img/juan1.jpg)  
+![](/Documentacion/Imagenes/Juan.jpg)  
 # Juan David Santiago Padilla
 
 Aprendiz del programa analisis y desarrollo de sistemas de informacion (ADSI) 1905372, del centro de industrial y de aviacion (sena).
@@ -13,9 +13,15 @@ Aprendiz del programa analisis y desarrollo de sistemas de informacion (ADSI) 19
 **Correo:**
 jdsantiago9@misena.edu.co
 
+-----------------------------------------
+
+#### INVESTIGACION :
+
+[WorkFlow](/Documentacion/WorkFlow/Juan.md)
+
 ----------------------------------------
 
 #### CERTIFICADOS :
 
-![](/Documentacion/certificados/juan1.png)
+![](/Documentacion/Certificados/juan1.png)
 
