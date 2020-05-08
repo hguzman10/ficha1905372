@@ -20,5 +20,7 @@
 12. [Mario Gomez](Mario.md)
 13. [Jose Gonzalez](Jose.md)
 14. [Jaime Alvarez](Jaime.md)
-15. [Dayana Rodriguéz](Dayana.m)
-16. [Livan Torres](livan.md)
+15. [Dayana Rodriguéz](Dayana.md)
+16. [Livan Torres ](livan.md)
+17. [Edy Monterrosa](Edy.md)
+
