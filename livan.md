@@ -1,7 +1,7 @@
 
 ----------------------------------------
 
-![foto](Documentacion/imagenes/livan.jpg)  
+![foto](Documentacion/img/livan.jpg)  
 # Livan Andres Torres Pulido
 
 ---------------------------------------
