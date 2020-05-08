@@ -1,6 +1,6 @@
 # **EDY MONTERROZA GAMERO**
 
-![](documentacion/imagenes/edy.png)    
+![](Documentacion/Imagenes/edy.png)    
 
 
 ---
