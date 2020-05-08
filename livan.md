@@ -1,14 +1,14 @@
 
 ----------------------------------------
 
-![](insertar imagen)  
+![foto](Documentacion/imagenes/livan.jpg)  
 # Livan Andres Torres Pulido
 
 ---------------------------------------
 #### Ocupacion:
 
 
--Tecnico en sistemas competente en:
+-Tecnico en sistemas competente en:<br>
     .Mantenimiento preventico y correctivo de equipos de computo<br>
     .Realizar  cableado estructurado con base a las normas estandar internacionales<br>
     .Electricidad basica residencial<br>
@@ -27,4 +27,4 @@
 
 ----------------------------------------
 ### Certificados:
-![](insertar imagen)
+![git](Documentacion/Certificados/certificado-livan.png)
