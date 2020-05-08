@@ -3,7 +3,7 @@
 
 #### Hojas de vida de los aprendices de ADSI
 ---
-1. [Jhan Bastidas](JhanCBB.md)
+1. [Jhan Bastidas](Jhan.md)
 2. [Juan Santiago](Juan.md)
 3. [Kelvin Martinez](Kelvin.md)
 4. [Melissa Perez](Melissa.md)
