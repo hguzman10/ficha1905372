@@ -3,9 +3,15 @@
 ### NOMBRE COMPLETOS
     Esteban De Jesús Gómez Fernández
 
+![imágen personal](Documentacion/Imagenes/PerfilEsteban.jpg)
+
 ### PERFIL PRFESIONAL
     Analista y dasarrollador de sistémas de información.
-    Cuenta de GitHub: https://github.com/ETBGM03
+[Cuenta personal de GitHub](https://github.com/ETBGM03 "cuenta de GitHub")
+
+### CERTIFICADO GIT Y GITHUB
+
+![imágen certificado git](Documentacion/Certificados/EstebanGit-1.png)
 
 ### CONOCIMIENTOS TÉCNICOS
     Tengo conocimientos sobre diferentes técnologias como:
