@@ -4,7 +4,7 @@
     información pase a un trabajador siguiendo una jerarquía determinada y reglas que se establecen con
     anterioridad.
 
-![Imágen workflow](Documentacion/Imagenes/workF.jpg)
+
 
 ## *Tecnologías de la información (workflow)*
     Un sistema de trabajo, para operar con eficacia y cumplir con el resultado 
