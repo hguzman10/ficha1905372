@@ -1,9 +1,6 @@
 # Repositorio OpenSource para Ejemplo aprendices SENA 1905372
 
 
-
-
-
 #### Hojas de vida de los aprendices de ADSI
 ---
 1. [Jhan Bastidas](Jhan.md)
