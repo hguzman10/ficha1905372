@@ -1,9 +1,6 @@
 # Repositorio OpenSource para Ejemplo aprendices SENA 1905372
 
 
-
-
-
 #### Hojas de vida de los aprendices de ADSI
 ---
 1. [Jhan Bastidas](Jhan.md)
@@ -25,4 +22,9 @@
 17. [Edy Monterrosa](Edy.md.)
 18. [Maikol Menco](Maikol.md)
 
-20. [Andres Rodriguez](Andres.md)
+19. [Rodrigo Muños] (Rodrigo.md)
+
+
+
+20. [Andres Rodriguez] (Andres.md)
+
