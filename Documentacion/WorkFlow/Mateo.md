@@ -51,6 +51,40 @@ Esta será la piedra sobre la que comiences a construir tu sistema de automatiza
 
 6. ***Git workflow***
 
+<br>*Git-flow es un conjunto de extensiones para Git, basado en el modelo de ramificaciones de Vincent Driessen, que nos facilita el trabajo con nuestros repositorios. Básicamente, git-flow agrega comandos de alto nivel que, por detrás, usan los comandos tradicionales de Git. El trabajo se distribuye en dos ramas **master** y **develop***
+
+***Organización:***
+* ***Rama master:*** *la rama que contiene el código que está en producción. A esta rama, sólo debe llegar código que está en o está listo para estar en producción.*
+
+* ***Rama develop:*** *la rama que contiene las features a incluir en una próxima salida a producción (pasando por test previamente). Todos los desarrollos que hagamos nuevos módulos, refactorings, etc. se guardarán en Develop, a la espera de salir a producción.*
+
+*Cada vez que se incorpora código a master, tenemos una nueva versión.*
+*Además de estas dos ramas, Se proponen las siguientes ramas auxiliares:*
+1. *Feature:*
+* *Se originan a partir de la rama develop*
+* *Se incorporan siempre a la rama develop*
+* *Nombre: cualquiera que no sea master, develop, hotfix o release*
+
+![](/Documentacion/Imagenes/feature_branches.png)
+
+2. *Realease:*
+* *Se originan a partir de la rama develop*
+* *Se incorporan a master y develop*
+* *Nombre: release-*
+
+*Estas ramas se utilizan para preparar el siguiente código en producción. En estas ramas se hacen los últimos ajustes y se corrigen los últimos bugs antes de pasar el código a producción incorporándolo a la rama master.*
+
+3. *Hotfix:*
+* *Se origina a partir de la rama master*
+* *Se incorporan a la master y develop*
+* *Nombre: hotfix-*
+
+*Estas se crean para correjir errores y bugs del codigo de producción a difirencia de la rama realease estas no se planifican*
+
+![](/Documentacion/Imagenes/hotfix.png)
+
+**Git-Flow:**
+
 ![](https://image.slidesharecdn.com/letsyourcollaboratorsmorehappywithgitflow-161102040705/95/lets-your-collaborators-more-happy-with-git-flow-1-638.jpg?cb=1478059844)
 
 
