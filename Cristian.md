@@ -1,10 +1,10 @@
 ![yo](Documentacion/img/cristianjulio.jfif)
 ---
 # Cristian Andres Julio Cantillo
-* dirección: cra 12 # 60 - 40
+* dirección: ####
 * ciudad: Barranquilla
-* tel: 3154968718
-* Correo: cristianandres2001julio@gmail.com 
+* tel: ####
+* Correo: #####
 ---
 
 # Perfil
