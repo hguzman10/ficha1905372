@@ -1,15 +1,26 @@
-ficha1905372
-Repositorio OpenSource para Ejemplo aprendices SENA 1905372
+# Repositorio OpenSource para Ejemplo aprendices SENA 1905372
 
 
-1. [Jhan Carlos Bastidas](https://github.com/JhanCarlos-117/ficha1905372/blob/master/Markdown/JhanCBB.md)
-2. [Juan David Santiago](Juan-Santiago.md)
-3. [Kelvin Martinez Ramos](https://github.com/KelvinMR1997/ficha1905372/blob/master/HV%20Marckdown/HV.md)
-4. [Melissa Perez Peña](https://github.com/YueStark/hoja-de-vida/blob/master/Melissa.md)
-5. [Cristian Andres Julio](cristianjulio.md)
+#### Hojas de vida de los aprendices de ADSI
+---
+1. [Jhan Bastidas](Jhan.md)
+2. [Juan Santiago](Juan.md)
+3. [Kelvin Martinez](Kelvin.md)
+4. [Melissa Perez](Melissa.md)
+5. [Cristian Julio](Cristian.md)
 6. [Henry Guzman](henry.md)
-7. [Esteban Gómez Fernández](ETBGM03.md)
-
-
-
+7. [Esteban Gómez](Esteban.md)
+8. [Wilman Orellano](Wilman.md)
+9. [Dilan Barrios](Dilan.md)
+10. [Mateo Balza](Mateo.md)
+11. [Jhon Rivera](Jhon.md)
+12. [Mario Gomez](Mario.md)
+13. [Jose Gonzalez](Jose.md)
+14. [Jaime Alvarez](Jaime.md)
+15. [Dayana Rodriguéz](Dayana.md)
+16. [Livan Torres ](livan.md)
+17. [Edy Monterrosa](Edy.md.)
+18. [Maikol Menco](Maikol.md)
+19. [Rodrigo Muños](Rodrigo.md)
+20. [Andres Rodriguez](Andres.md)
 
