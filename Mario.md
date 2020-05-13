@@ -75,9 +75,14 @@ ___
 
 ### Certificados:
 
-![4.](https://github.com/MERZIOX/ficha1905372/blob/master/Documentacion/certificados/MG%20certificado%20git%20y%20github.jpg?raw=true "CURSO PROFESIONAL DE GIT Y GITHUB ")
 
 
-![7.](https://github.com/MERZIOX/ficha1905372/blob/master/Documentacion/certificados/MG%20Fomento%20de%20los%20derechos%20humanos.jpg?raw=true "FOMENTO DE LOS DERECHOS HUMANOS Y EL DERECHO INTERNACIONAL HUMANITARIO EN COLOMBIA.")
 
-![8.](https://github.com/MERZIOX/ficha1905372/blob/master/Documentacion/certificados/MG%20Metodologia%20de%20la%20programacion%20es%20sistemas%20informaticos.jpg?raw=true "METODOLOGIA DE LA PROGRAMACION DE SISTEMAS INFORMATICOS.")
+![CURSO PROFESIONAL DE GIT Y GITHUB](https://github.com/hguzman10/ficha1905372/blob/master/Documentacion/Certificados/MG%20certificado%20git%20y%20github.jpg?raw=true "CURSO PROFESIONAL DE GIT Y GITHUB ")
+
+![DESARROLLO DE HABILIDADES, PRINCIPIOS Y VALORES PARA LA VIDA Y EL TRABAJO.](https://github.com/hguzman10/ficha1905372/blob/master/Documentacion/Certificados/MG%20desarrollo%20de%20habilidades.jpg?raw=true "CURSO PROFESIONAL DE GIT Y GITHUB ")
+
+
+![FOMENTO DE LOS DERECHOS HUMANOS Y EL DERECHO INTERNACIONAL HUMANITARIO EN COLOMBIA](https://github.com/hguzman10/ficha1905372/blob/master/Documentacion/Certificados/MG%20Fomento%20de%20los%20derechos%20humanos.jpg?raw=true "FOMENTO DE LOS DERECHOS HUMANOS Y EL DERECHO INTERNACIONAL HUMANITARIO EN COLOMBIA.")
+
+![METODOLOGIA DE LA PROGRAMACION DE SISTEMAS INFORMATICOS](https://github.com/hguzman10/ficha1905372/blob/master/Documentacion/Certificados/MG%20Metodologia%20de%20la%20programacion%20es%20sistemas%20informaticos.jpg?raw=true "METODOLOGIA DE LA PROGRAMACION DE SISTEMAS INFORMATICOS.")
