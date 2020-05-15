@@ -1,7 +1,7 @@
 <!-- heading -->
 **Zohair Andres Castro Rosis**
 -
-![foto](foto.jpg)
+![](Documentacion/Imagenes/foto.jpg)   
 -------------------------------
 1.***Datos personales***
 -
