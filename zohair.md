@@ -28,7 +28,7 @@ Tecnólogo en análisis y desarrollo de sistemas de información.
 * Academico:
     * Bachiller academico
 * Certificado de Git:
-    ![](Documentacion/Certificados/Certificado de Git Zohair Castro.jpg) 
+    ![Git](Documentacion/Certificados/Certificado de Git Zohair Castro.jpg)
 -----------------------------
 4.***Referencias***
 -
